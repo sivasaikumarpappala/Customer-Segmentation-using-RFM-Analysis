@@ -32,17 +32,20 @@ Jupyter Notebook
 
 RFM stands for Recency, Frequency, Monetary, a framework used to analyze customer behavior.
 
-(1) Recency (R):
+Recency (R):
+
 •	Measures how recently a customer made a purchase
 
 •	Recent customers are more likely to buy again
 
-(2) Frequency (F):
+Frequency (F):
+
 •	Measures how often a customer makes purchases
 
 •	Frequent buyers are usually loyal customers
 
-(3) Monetary (M):
+Monetary (M):
+
 •	Measures how much money a customer has spent
 
 •	Higher spending customers are more valuable to the business
