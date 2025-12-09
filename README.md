@@ -8,9 +8,13 @@ The objective is to identify valuable customer groups and provide insights that 
 # Tools & Technologies:
 
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
 
 # Dataset Summary:
