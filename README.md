@@ -15,6 +15,11 @@ Jupyter Notebook
 
 # Dataset Summary:
 
+	Dataset Name: Superstore Sales Dataset
+•	Records: ~10,000
+•	Type: Public retail dataset
+•	Includes: Customer details, order information, regional data, product categories, sales, profit, discount, shipping details, etc.
+
 # What is RFM?
 
 RFM stands for Recency, Frequency, Monetary, a framework used to analyze customer behavior.
